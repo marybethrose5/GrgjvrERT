@@ -2,8 +2,6 @@ from collections import namedtuple
 
 Bread = namedtuple("Bread", "color")
 
-
-class ToastException(Exception):
     pass
 
 
